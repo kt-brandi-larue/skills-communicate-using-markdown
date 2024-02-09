@@ -6,3 +6,6 @@ I am just learning some stuff. nothing to see here.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turnon GitHub Pages
+- [ ] Outline my portforlio
+- [ ] Introduce myself to the world
